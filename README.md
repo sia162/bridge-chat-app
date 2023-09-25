@@ -1,6 +1,6 @@
 # Brigde Chat App
 
-![Chat Application](https://i.ibb.co/hsvcw4V/image.png)
+![Chat Application]
 
 ## Introduction
 This a full stack chat application made using https://getstream.io/
